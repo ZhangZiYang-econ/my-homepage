@@ -49,7 +49,7 @@ toc: false
 </div>
 
 <div class="paper-card compact-paper">
-<div class="paper-title">论文 2：《“机器换人”与“人适应机器”：机器人应用、家庭生育—教育决策与技能溢价》</div>
+<div class="paper-title">论文 2：《机器换人与人适应机器：机器人应用如何重塑劳动力市场》</div>
 
 <div class="paper-meta"><strong>状态：</strong>投稿至《世界经济》</div>
 
