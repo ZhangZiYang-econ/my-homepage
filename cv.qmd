@@ -1,0 +1,9 @@
+---
+title: "简历"
+toc: false
+---
+
+<div class="cv-card compact">
+  <div class="cv-text">这里提供我的最新个人简历下载。</div>
+  <a class="cv-button" href="ZhangZiyang_CV.pdf" target="_blank">下载 CV</a>
+</div>

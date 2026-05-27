@@ -1,0 +1,33 @@
+---
+title: "联系方式"
+toc: false
+---
+
+<div class="contact-card">
+<div class="contact-name">张紫洋</div>
+<div class="contact-role">中国人民大学经济学院博士研究生</div>
+
+<div class="contact-section">
+<div class="contact-label">邮箱</div>
+<div class="contact-value">
+<a href="mailto:renda2015200810@163.com">renda2015200810@163.com</a>
+</div>
+</div>
+
+<div class="contact-section">
+<div class="contact-label">单位</div>
+<div class="contact-value">中国人民大学经济学院</div>
+</div>
+
+<div class="contact-section">
+<div class="contact-label">研究方向</div>
+<div class="contact-value">
+<ul class="contact-list">
+<li>宏观经济学（异质性个体）</li>
+<li>产业结构转型</li>
+<li>自动化、工业机器人与人工智能</li>
+<li>收入分配</li>
+</ul>
+</div>
+</div>
+</div>

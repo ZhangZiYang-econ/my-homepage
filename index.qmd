@@ -1,0 +1,58 @@
+---
+title: "首页"
+toc: false
+---
+
+<div class="home-hero">
+<div class="home-hero-grid">
+<div class="home-photo-wrap">
+<img src="my_photo.jpg" alt="张紫洋" class="home-photo">
+</div>
+
+<div class="home-text-wrap">
+<div class="home-name">张紫洋</div>
+<div class="home-role">中国人民大学经济学院博士研究生</div>
+<div class="home-intro">
+欢迎来到我的个人学术主页。这里展示我的研究方向、论文成果、个人简历与联系方式。
+</div>
+
+<div class="home-buttons">
+<a class="home-button" href="research.html">查看研究</a>
+<a class="home-button" href="ZhangZiyang_CV.pdf" target="_blank">下载简历</a>
+<a class="home-button" href="contact.html">联系方式</a>
+</div>
+</div>
+</div>
+</div>
+
+## 研究方向
+
+<div class="info-card">
+<ul class="home-list">
+<li>宏观经济学（异质性个体）</li>
+<li>产业结构转型</li>
+<li>自动化、工业机器人与人工智能</li>
+<li>收入分配</li>
+</ul>
+</div>
+
+## 个人简介
+
+<div class="info-card">
+我是中国人民大学经济学院博士研究生。
+
+我的研究主要围绕宏观经济学、结构转型、自动化与人工智能以及收入分配等问题展开。
+</div>
+
+## 最新研究
+
+<div class="paper-card">
+<div class="paper-title">已发表论文：《多部门视角下偏向性技术进步对中国收入分布的影响》</div>
+<div class="paper-meta"><strong>期刊：</strong>《中国工业经济》</div>
+<div class="paper-abstract">
+本文从多部门一般均衡框架出发，研究偏向性技术进步对中国收入分布演变的影响，解释了不同阶段收入份额变化的特征及其机制。
+</div>
+<div class="paper-links">
+<a class="paper-button" href="research.html">查看详情</a>
+</div>
+</div>
