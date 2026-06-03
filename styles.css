@@ -329,6 +329,25 @@ h2 + .paper-card {
   margin-bottom: 0.8em;
 }
 
+.publication-list {
+  margin: 0.8rem 0 1.7rem;
+  padding: 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+.publication-item {
+  padding: 13px 0;
+  border-bottom: 1px solid #e5e7eb;
+  color: #4b5563;
+  font-size: 0.98rem;
+  line-height: 1.75;
+}
+
+.publication-item a {
+  margin-left: 0.45em;
+  font-weight: 600;
+}
+
 .home-hero-grid {
   display: grid;
   grid-template-columns: 180px 1fr;
