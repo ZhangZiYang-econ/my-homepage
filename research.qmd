@@ -35,7 +35,7 @@ toc: false
 
 <div class="publication-list">
 <div class="publication-item">
-Xu, Shaofeng; Meng, Qiqing; Zhang, Ziyang. “On the rise of teleworkable jobs in the US.” <em>Economics Letters</em>, 265(C), 113021, 2026.
+Xu, Shaofeng; Meng, Qiqing; <span class="author-self">Zhang, Ziyang</span>. “On the rise of teleworkable jobs in the US.” <em>Economics Letters</em>, 265(C), 113021, 2026.
 <a href="https://doi.org/10.1016/j.econlet.2026.113021" target="_blank">DOI</a>
 </div>
 </div>

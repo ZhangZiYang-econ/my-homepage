@@ -348,6 +348,15 @@ h2 + .paper-card {
   font-weight: 600;
 }
 
+.author-self {
+  display: inline-block;
+  padding: 0 0.28em;
+  border-radius: 4px;
+  background: #eef5ff;
+  color: #1f2d3d;
+  font-weight: 700;
+}
+
 .home-hero-grid {
   display: grid;
   grid-template-columns: 180px 1fr;
