@@ -232,80 +232,57 @@ h2 + .paper-card {
   line-height: 1.8;
 }
 
-.education-timeline {
-  position: relative;
-  margin: 1rem 0 2rem 0.35rem;
-  padding-left: 1.8rem;
-}
-
-.education-timeline::before {
-  content: "";
-  position: absolute;
-  top: 0.55rem;
-  bottom: 0.55rem;
-  left: 0.35rem;
-  width: 2px;
-  background: #dbe5f2;
-}
-
-.education-item {
-  position: relative;
-  margin-bottom: 1rem;
-}
-
-.education-item:last-child {
-  margin-bottom: 0;
-}
-
-.education-marker {
-  position: absolute;
-  top: 1.25rem;
-  left: -1.8rem;
-  width: 12px;
-  height: 12px;
-  border: 3px solid #2563eb;
-  border-radius: 50%;
+.education-panel {
+  margin: 1rem 0 2rem;
+  padding: 0 24px;
+  border: 1px solid #dfe3e8;
+  border-radius: 8px;
   background: #ffffff;
-  transform: translateX(-1px);
 }
 
-.education-content {
-  padding: 18px 22px;
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  background: #ffffff;
-  box-shadow: 0 3px 10px rgba(15, 23, 42, 0.035);
+.education-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(220px, 1fr);
+  gap: 2rem;
+  padding: 20px 0;
+  border-bottom: 1px solid #e8eaed;
 }
 
-.education-heading {
+.education-row:last-child {
+  border-bottom: 0;
+}
+
+.education-main,
+.education-meta {
   display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 1rem;
-  margin-bottom: 0.25rem;
+  flex-direction: column;
 }
 
 .education-degree {
   color: #1f2d3d;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-weight: 700;
 }
 
-.education-date {
-  color: #64748b;
-  font-size: 0.92rem;
-  white-space: nowrap;
+.education-school {
+  margin-top: 0.15rem;
+  color: #475569;
 }
 
-.education-school {
+.education-meta {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.education-major {
   color: #334155;
   font-weight: 600;
 }
 
-.education-detail {
-  margin-top: 0.1rem;
+.education-date {
+  margin-top: 0.15rem;
   color: #6b7280;
-  font-size: 0.96rem;
+  font-size: 0.92rem;
 }
 
 /* 首页主卡片 */
@@ -485,14 +462,19 @@ h2 + .paper-card {
 }
 
 @media (max-width: 576px) {
-  .education-heading {
-    display: block;
+  .education-panel {
+    padding: 0 18px;
   }
 
-  .education-date {
-    display: block;
-    margin-top: 0.1rem;
-    white-space: normal;
+  .education-row {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+    padding: 17px 0;
+  }
+
+  .education-meta {
+    align-items: flex-start;
+    text-align: left;
   }
 }
 
