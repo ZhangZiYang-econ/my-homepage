@@ -242,11 +242,6 @@ h2 + .paper-card {
 }
 
 .education-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  row-gap: 0.32rem;
-  column-gap: 2rem;
-  align-items: baseline;
   padding: 1.15rem 0;
   border-bottom: 1px solid #e8ecf0;
 }
@@ -255,29 +250,35 @@ h2 + .paper-card {
   border-bottom: 0;
 }
 
-.education-main,
-.education-meta {
-  display: contents;
+.education-line {
+  width: 100%;
+}
+
+.education-line > p {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5rem;
+  width: 100%;
+  margin: 0;
+}
+
+.education-line-secondary {
+  margin-top: 0.32rem;
 }
 
 .education-degree {
-  grid-column: 1;
-  grid-row: 1;
   color: #1f2937;
   font-size: 1.05rem;
   font-weight: 650;
 }
 
 .education-school {
-  grid-column: 1;
-  grid-row: 2;
   color: #596675;
   font-size: 0.96rem;
 }
 
 .education-major {
-  grid-column: 2;
-  grid-row: 2;
   color: #374151;
   font-size: 0.96rem;
   font-weight: 500;
@@ -285,8 +286,6 @@ h2 + .paper-card {
 }
 
 .education-date {
-  grid-column: 2;
-  grid-row: 1;
   color: #7a8491;
   font-size: 0.9rem;
   text-align: right;
@@ -474,8 +473,11 @@ h2 + .paper-card {
   }
 
   .education-row {
-    column-gap: 1rem;
     padding: 1rem 0;
+  }
+
+  .education-line > p {
+    gap: 0.8rem;
   }
 
   .education-school,

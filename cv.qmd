@@ -7,35 +7,35 @@ toc: false
 
 <div class="education-panel">
 <div class="education-row">
-<div class="education-main">
+<div class="education-line education-line-primary">
 <span class="education-degree">博士研究生</span>
-<span class="education-school">中国人民大学经济学院</span>
-</div>
-<div class="education-meta">
-<span class="education-major">西方经济学</span>
 <span class="education-date">2022年9月－至今</span>
 </div>
+<div class="education-line education-line-secondary">
+<span class="education-school">中国人民大学经济学院</span>
+<span class="education-major">西方经济学</span>
+</div>
 </div>
 
 <div class="education-row">
-<div class="education-main">
+<div class="education-line education-line-primary">
 <span class="education-degree">硕士研究生</span>
-<span class="education-school">中国人民大学经济学院</span>
-</div>
-<div class="education-meta">
-<span class="education-major">西方经济学</span>
 <span class="education-date">2019年9月－2021年6月</span>
 </div>
+<div class="education-line education-line-secondary">
+<span class="education-school">中国人民大学经济学院</span>
+<span class="education-major">西方经济学</span>
+</div>
 </div>
 
 <div class="education-row">
-<div class="education-main">
+<div class="education-line education-line-primary">
 <span class="education-degree">本科</span>
-<span class="education-school">中国人民大学经济学院</span>
-</div>
-<div class="education-meta">
-<span class="education-major">经济学</span>
 <span class="education-date">2015年9月－2019年6月</span>
+</div>
+<div class="education-line education-line-secondary">
+<span class="education-school">中国人民大学经济学院</span>
+<span class="education-major">经济学</span>
 </div>
 </div>
 </div>
