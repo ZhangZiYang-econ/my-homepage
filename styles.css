@@ -233,37 +233,22 @@ h2 + .paper-card {
 }
 
 .education-panel {
-  margin: 1rem 0 2rem;
-  padding: 0;
+  margin: 1rem 0 2.2rem;
+  border-top: 1px solid #d9e0e7;
+  border-bottom: 1px solid #d9e0e7;
 }
 
 .education-row {
-  position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1.4fr) minmax(220px, 1fr);
+  grid-template-columns: minmax(0, 1fr) auto;
   gap: 2rem;
-  align-items: center;
-  padding: 20px 22px 20px 26px;
-  margin-bottom: 14px;
-  overflow: hidden;
-  border: 1px solid #e1e6ec;
-  border-radius: 9px;
-  background: #ffffff;
-  box-shadow: 0 3px 10px rgba(15, 23, 42, 0.035);
-}
-
-.education-row::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 4px;
-  background: #52749a;
+  align-items: start;
+  padding: 1.25rem 0.15rem;
+  border-bottom: 1px solid #e8ecf0;
 }
 
 .education-row:last-child {
-  margin-bottom: 0;
+  border-bottom: 0;
 }
 
 .education-main,
@@ -273,15 +258,15 @@ h2 + .paper-card {
 }
 
 .education-degree {
-  color: #26384b;
-  font-size: 1.08rem;
-  font-weight: 700;
+  color: #1f2937;
+  font-size: 1.05rem;
+  font-weight: 650;
 }
 
 .education-school {
-  margin-top: 0.25rem;
-  color: #4b5563;
-  font-size: 0.98rem;
+  margin-top: 0.3rem;
+  color: #596675;
+  font-size: 0.96rem;
 }
 
 .education-meta {
@@ -290,14 +275,15 @@ h2 + .paper-card {
 }
 
 .education-major {
-  color: #334155;
-  font-weight: 600;
+  color: #374151;
+  font-size: 0.96rem;
+  font-weight: 500;
 }
 
 .education-date {
-  margin-top: 0.25rem;
-  color: #6b7280;
-  font-size: 0.92rem;
+  margin-top: 0.3rem;
+  color: #7a8491;
+  font-size: 0.9rem;
 }
 
 /* 首页主卡片 */
@@ -479,9 +465,8 @@ h2 + .paper-card {
 @media (max-width: 576px) {
   .education-row {
     grid-template-columns: 1fr;
-    gap: 0.7rem;
-    padding: 17px 18px 17px 22px;
-    margin-bottom: 12px;
+    gap: 0.65rem;
+    padding: 1.1rem 0.1rem;
   }
 
   .education-meta {
