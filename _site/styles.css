@@ -297,6 +297,49 @@ h2 + .paper-card {
   padding: 20px 24px;
 }
 
+.publication-group {
+  margin: 1rem 0 2rem;
+}
+
+.publication-group-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin-bottom: 0.25rem;
+}
+
+.publication-group-title {
+  color: #1f2d3d;
+  font-size: 1.18rem;
+  font-weight: 700;
+}
+
+.publication-group-note {
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: #2563eb;
+  color: #ffffff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.publication-group-description {
+  margin-bottom: 0.9rem;
+  color: #6b7280;
+  font-size: 0.94rem;
+}
+
+.featured-paper {
+  border-left: 4px solid #2563eb;
+  box-shadow: 0 5px 16px rgba(37, 99, 235, 0.07);
+}
+
+.publication-group-other {
+  padding-top: 0.2rem;
+  border-top: 1px dashed #d9dee7;
+}
+
 .paper-summary {
   color: #4b5563;
   line-height: 1.85;
