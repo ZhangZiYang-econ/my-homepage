@@ -20,11 +20,11 @@ toc: false
 
 <div class="paper-meta"><strong>发表期刊：</strong>《中国工业经济》2026年第6期</div>
 
-<div class="paper-citation"><strong>引用：</strong>于泽, 张紫洋, 吴孟非. 自动化的制造业劳动收入份额效应——基于行业内结构变化视角[J]. 中国工业经济, 2026(06).</div>
-
 <div class="paper-summary">
 本文从异质性企业动态一般均衡框架出发，研究自动化一般性技术进步与前沿技术进步如何共同塑造中国制造业劳动收入份额的阶段性演变。
 </div>
+
+<div class="paper-citation"><strong>引用：</strong>于泽, 张紫洋, 吴孟非. 自动化的制造业劳动收入份额效应——基于行业内结构变化视角[J]. 中国工业经济, 2026(06).</div>
 
 <div class="paper-links">
 <a class="paper-button" href="https://mp.weixin.qq.com/s/SWO503A03IrS33nt7oS3_A" target="_blank">期刊目录</a>
@@ -45,11 +45,11 @@ toc: false
 
 <div class="paper-meta"><strong>发表期刊：</strong>《中国工业经济》</div>
 
-<div class="paper-citation"><strong>引用：</strong>徐少锋, 兰森, 张紫洋, 于泽. 多部门视角下偏向性技术进步对中国收入分布的影响[J]. 中国工业经济, 2024(06):23-41.</div>
-
 <div class="paper-summary">
 本文从多部门一般均衡框架出发，研究偏向性技术进步对中国收入分布演变的影响，并解释不同阶段收入份额变化的机制。
 </div>
+
+<div class="paper-citation"><strong>引用：</strong>徐少锋, 兰森, 张紫洋, 于泽. 多部门视角下偏向性技术进步对中国收入分布的影响[J]. 中国工业经济, 2024(06):23-41.</div>
 
 <div class="paper-links">
 <a class="paper-button" href="paper1_main.pdf" target="_blank">正文 PDF</a>
@@ -73,7 +73,7 @@ toc: false
 
 <div class="publication-list">
 <div class="publication-item">
-<strong>引用：</strong>Xu, Shaofeng; Meng, Qiqing; <span class="author-self">Zhang, Ziyang</span>. “On the rise of teleworkable jobs in the US.” <em>Economics Letters</em>, 265(C), 113021, 2026.
+Xu, Shaofeng; Meng, Qiqing; <span class="author-self">Zhang, Ziyang</span>. “On the rise of teleworkable jobs in the US.” <em>Economics Letters</em>, 265(C), 113021, 2026.
 <a href="https://doi.org/10.1016/j.econlet.2026.113021" target="_blank">DOI</a>
 </div>
 </div>
