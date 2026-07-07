@@ -117,6 +117,13 @@ a:hover {
   margin-bottom: 1em;
 }
 
+.paper-citation {
+  color: #4b5563;
+  font-size: 0.98rem;
+  line-height: 1.7;
+  margin: -0.3em 0 1em;
+}
+
 .paper-authorship {
   display: inline-flex;
   align-items: center;
