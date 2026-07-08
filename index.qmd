@@ -53,6 +53,7 @@ toc: false
 本文从异质性企业动态一般均衡框架出发，研究自动化一般性技术进步与前沿技术进步如何共同塑造中国制造业劳动收入份额的阶段性演变。
 </div>
 <div class="paper-links">
+<a class="paper-button" href="automation_labor_share_2026.pdf" target="_blank">正文 PDF</a>
 <a class="paper-button" href="research.html">查看详情</a>
 </div>
 </div>
