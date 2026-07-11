@@ -28,6 +28,7 @@ toc: false
 
 <div class="paper-links">
 <a class="paper-button" href="automation_labor_share_2026.pdf" target="_blank">正文 PDF</a>
+<a class="paper-button" href="automation_labor_share_2026_appendix.pdf" target="_blank">附录 PDF</a>
 <a class="paper-button" href="https://mp.weixin.qq.com/s/SWO503A03IrS33nt7oS3_A" target="_blank">期刊目录</a>
 </div>
 
