@@ -123,6 +123,17 @@ a:hover {
   line-height: 1.7;
   margin: -0.3em 0 1em;
 }
+.paper-honors {
+  color: #4b5563;
+  font-size: 0.96rem;
+  line-height: 1.7;
+  margin: -0.3em 0 1em;
+}
+
+.paper-honors ul {
+  margin: 0.2em 0 0;
+  padding-left: 1.4em;
+}
 
 .paper-authorship {
   display: inline-flex;
